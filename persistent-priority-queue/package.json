@@ -1,0 +1,16 @@
+{
+  "name": "persistent-priority-queue",
+  "version": "1.0.0",
+  "description": "Persistent priority queue implemented using binary heaps and JSON file storage",
+  "main": "module.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "priority-queue",
+    "binary-heap",
+    "data-structures",
+    "persistence"
+  ],
+  "license": "MIT"
+}
